@@ -1,4 +1,7 @@
-# api documentation for  [native-promise-only (v0.8.1)](http://github.com/getify/native-promise-only)  [![npm package](https://img.shields.io/npm/v/npmdoc-native-promise-only.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-native-promise-only) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-native-promise-only.svg)](https://travis-ci.org/npmdoc/node-npmdoc-native-promise-only)
+# npmdoc-native-promise-only
+
+#### basic api documentation for  [native-promise-only (v0.8.1)](http://github.com/getify/native-promise-only)  [![npm package](https://img.shields.io/npm/v/npmdoc-native-promise-only.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-native-promise-only) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-native-promise-only.svg)](https://travis-ci.org/npmdoc/node-npmdoc-native-promise-only)
+
 #### Native Promise Only: A polyfill for native ES6 Promises **only**, nothing else.
 
 [![NPM](https://nodei.co/npm/native-promise-only.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/native-promise-only)
@@ -60,7 +63,8 @@
         "build": "./build.js",
         "test": "promises-aplus-tests test_adapter.js"
     },
-    "version": "0.8.1"
+    "version": "0.8.1",
+    "bin": {}
 }
 ```
 
